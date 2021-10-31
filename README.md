@@ -1,4 +1,4 @@
-# How To Write Smart Contract With Typescript, Part 2 - Singleton Counter
+# How To Write Smart Contract With Typescript, Part 3 - Singleton Counter
 ## Introduction
 This is third tutorial in a series of tutorial which covers smart contract development in Assmeblyscript on NEAR protocol. If you haven't read previous tutorials, I'll suggest you to read them first.
 
